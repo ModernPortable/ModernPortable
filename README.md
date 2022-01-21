@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @ModernPortable
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Modern Portable By Stanford Works
 
-<!---
-ModernPortable/ModernPortable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- For Questions or Inquiries Please Reach Out To KYLE (Chief Development Specialist at Stanford Works) At The Email Below:
+- Email: Kyle@StanfordWorks.com
